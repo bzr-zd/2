@@ -1,0 +1,13 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "1.0",
+                "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/blr.zip",
+                "icon": "1",
+                "version": "本地"
+           }
+        ]
+    }
+]
